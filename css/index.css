@@ -1,0 +1,13 @@
+:root {
+    --color1: #F5F5F5;
+    --color2: #2E5266;
+    --color3: #6E8898;
+    --color4: #6F1A07;
+    --color5: #E56399;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: var(--color2);
+}
